@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "mongooseConnectionString": "mongodb+srv://Salph:bbcb4123@cluster0.dxuiv.mongodb.net/?retryWrites=true&w=majority",
+    "serverId": "1000892963515277363",
+    "ticket_moderateRrole_id":"1024096643668258907",
+    "transcripts_channel_id": "1017614582832971846",
+    "buttons": {
+        "button1": {
+            "label": "Request\nA\nMiddleman"
+        },
+        "button2": {
+            "label": "Claim\nTicket"
+        }
+    }
+}
