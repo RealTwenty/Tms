@@ -16,7 +16,7 @@
     "express": "^4.18.1",
     "glob": "^8.0.3",
     "moment": "^2.29.3",
-    "mongoose": "^6.4.0",
+    "mongoose": "^7.2.0",
     "package-json": "^8.1.0",
     "package-lock": "^1.0.5",
     "simply-djs": "^3.0.2"
